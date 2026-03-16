@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Parth
+# Hi there 👋, I'm Bishop
 
 ## 🚀 About Me
 
