@@ -56,10 +56,7 @@
 
 ## 📂 Projects
 
-🚧 *Projects will be added as I learn and build.*
-
-* Java Full Stack Mini Projects
-* MERN Stack Beginner Projects (Coming Soon)
+•	https://memeverse-five.vercel.app/
 
 ---
 
