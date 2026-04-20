@@ -1,69 +1,95 @@
-# Hi there 👋, I'm Bishop
+# 👋 Hey, I'm Bishop
 
-## 🚀 About Me
+🚀 Full Stack Developer with a Backend Focus
 
-🎓 Student Developer with a strong foundation in **Java Full Stack Development** and currently learning the **MERN Stack**. I enjoy building web applications, understanding how things work end-to-end, and continuously improving my skills.
+I build **end-to-end applications** with a strong emphasis on **backend systems, API design, and scalability**, while also crafting clean and responsive user interfaces when needed.
 
-* ☕ Completed **Java Full Stack** (Core Java, Spring Boot, MySQL)
-* 🌱 Currently learning **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
-* 💻 Interested in Full-Stack Web Development
-* 📚 Always eager to learn new technologies and best practices
+---
+
+## 🧠 About Me
+
+* 💻 Working with **Java, Spring Boot, React**
+* ⚙️ Focused on **backend logic, APIs, and system design**
+* 🎯 Still care about **clean UI/UX**, but backend is my core strength
+* 📈 Continuously improving **performance, scalability, and architecture**
+* 🧩 Building projects that are **practical and production-oriented**
+
+---
+
+## 🌐 Portfolio
+
+👉 **Check out my work here:**
+🔗 https://portfolio-iota-black-p6j7y310ca.vercel.app/
+
+---
+
+## 🚀 Featured Projects
+
+### 📊 QuantEdge *(Backend-Driven Project)*
+
+A stock-analysis and strategy-based platform.
+
+* Designed with a **backend-first approach**
+* Handles **stock-specific strategies and data workflows**
+* Focus on **modular architecture and scalability**
+* Built to evolve into a more data-intensive system
+
+---
+
+### 🎭 MemeVerse
+
+🔗 https://memeverse-nine-lemon.vercel.app/
+
+A full-stack meme platform focused on performance and usability.
+
+* Backend-powered content handling
+* REST API integration
+* Responsive and smooth UI
+* Clean separation of concerns
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+**Backend**
 
 * Java
-* JavaScript
-* SQL
-* HTML5
-* CSS3
-
-### ⚙️ Backend
-
 * Spring Boot
-* Node.js
-* Express.js
+* REST APIs
+* Maven
 
-### 🎨 Frontend
+**Frontend**
 
-* React.js
-* Bootstrap
+* React
+* HTML, CSS, JavaScript
+* Tailwind CSS
 
-### 🗄️ Database
-
-* MySQL
-* MongoDB
-
-### 🔧 Tools & Platforms
+**Tools**
 
 * Git & GitHub
-* VS Code
-* IntelliJ IDEA
+* Postman
+* Deployment (Vercel / others)
 
 ---
 
-## 📌 Learning Goals
+## 📌 What I’m Working On
 
-* Build real-world MERN stack projects
-* Improve problem-solving & DSA skills
-* Learn REST API best practices
-* Understand deployment & cloud basics
-
----
-
-## 📂 Projects
-
-•	https://memeverse-five.vercel.app/
+* Strengthening **backend architecture & API design**
+* Making projects more **scalable and production-ready**
+* Improving **data handling and system efficiency**
+* Refining frontend where it adds real value
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: [Your GitHub Profile](https://github.com/bishopcommander)
+* 🌐 Portfolio: https://portfolio-iota-black-p6j7y310ca.vercel.app/
+* 💼 GitHub: https://github.com/bishopcommander
 
 ---
 
-⭐ *Feel free to explore my repositories and follow my learning journey!*
+## ⚡ Developer Mindset
+
+> Build complete systems. Think backend. Deliver clean experiences.
+
+---
