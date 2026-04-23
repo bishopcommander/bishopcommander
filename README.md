@@ -25,6 +25,17 @@ I build **end-to-end applications** with a strong emphasis on **backend systems,
 
 ## 🚀 Featured Projects
 
+### 🚀 ProjectAtlas
+A developer inspiration platform that helps users discover, explore, and evaluate project ideas in a structured way.  
+Designed to bridge the gap between *idea and execution*.
+
+* Built to solve the "what should I build next?" problem for developers  
+* Provides structured, execution-focused project ideas instead of generic lists  
+* Emphasizes real-world usability and portfolio value  
+* Designed using a scalable full-stack architecture  
+* Focuses on clarity, exploration, and developer experience
+
+---
 ### 📊 QuantEdge *(Backend-Driven Project)*
 
 A stock-analysis and strategy-based platform.
