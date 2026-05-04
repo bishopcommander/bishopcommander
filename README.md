@@ -26,6 +26,9 @@ I build **end-to-end applications** with a strong emphasis on **backend systems,
 ## 🚀 Featured Projects
 
 ### 🚀 ProjectAtlas
+
+🔗 https://projectatlas-lq7m.onrender.com/
+
 A developer inspiration platform that helps users discover, explore, and evaluate project ideas in a structured way.  
 Designed to bridge the gap between *idea and execution*.
 
